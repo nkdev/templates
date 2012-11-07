@@ -1,0 +1,9 @@
+[submodule "basicHtml5/css/common/normalize.css"]
+	path = basicHtml5/css/common/normalize.css
+	url = git://github.com/necolas/normalize.css.git
+[submodule "basicHtml5/js/common/jquery"]
+	path = basicHtml5/js/common/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "basicHtml5/js/common/html5shiv"]
+	path = basicHtml5/js/common/html5shiv
+	url = git://github.com/aFarkas/html5shiv.git
